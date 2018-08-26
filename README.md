@@ -21,6 +21,19 @@ Print your Otto with Arms,
 - I use a RAFT to help stick to the bed, this is optional
 - There should be no need to rotate any parts, print as they are shown.
 
+### Parts Needed:
+
+Parts required for Otto with Arms, 
+- 6 x SG90 SERVOS
+- Arduino NANO   atmega328 version
+- Arduino NANO I/O shield
+- HC SR04 ultrasonic module
+- MAX7219 dot matrix module
+- Female to female hook-up wires
+- Bluetooth module (optional)
+- LIPO battery 3.7volt and a suitable DC-DC converter module (optional)
+- GSTDUINO PCB (instead of the Arduino Nano and shield, OPTIONAL)
+
    
 ### Revision of history:
 
