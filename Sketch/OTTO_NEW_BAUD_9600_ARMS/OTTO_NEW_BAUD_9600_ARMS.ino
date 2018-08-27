@@ -159,7 +159,7 @@ void loop() {
       //---------------------------------------------------------
       case 1:
         
-        randomDance=random(5,21); //5,20
+        randomDance=random(5,23); //5,20
         if((randomDance>14)&&(randomDance<19)){
             randomSteps=1;
             T=1600;
