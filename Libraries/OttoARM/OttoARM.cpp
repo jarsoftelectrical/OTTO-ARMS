@@ -549,7 +549,7 @@ void Otto::handwave(int dir){
   int O[6] = {0, 0, 0, 0, -30, -40};
   double phase_diff[6] = {0, 0, 0, 0, DEG2RAD(0),0};
     //-- Let's oscillate the servos!
-  _execute(A, O, 500, phase_diff, 1); 
+  _execute(A, O, 500, phase_diff, 5); 
   }
   if(dir==1)      
   {
